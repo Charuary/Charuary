@@ -2,8 +2,8 @@
 
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Charucodess.Charucodess)](https://github.com/Charucodess) [![GitHub followers](https://img.shields.io/github/followers/Charucodess.svg?style=social&label=Follow)](https://github.com/Charucodess?tab=followers)
 
-I'm Charu Chaudhary!
-- <i>Currently:</i> B.tech ECM student at Guru Nanak Dev University at Amritsar.
+I'm **Charu Chaudhary** !
+- <i>Currently:</i>  B.tech ECM student at Guru Nanak Dev University at Amritsar.
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -16,3 +16,4 @@ I'm Charu Chaudhary!
 
 <h2>📫 How to reach me:</h2>
 
+<a href="mailto: charuchaudhary0202@gmail.com">![charuchaudhary0202@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> 
