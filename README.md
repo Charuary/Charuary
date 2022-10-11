@@ -1,5 +1,5 @@
-<h2>Heya! 
-<img src= "https://bestanimations.com/uploads/gifs/1684669800kawaii-kitten-super-cute-pink-hearts-animated-gif-1.gif" width="80">
+<h2>Heya!
+<img src= "https://bestanimations.com/uploads/gifs/1684669800kawaii-kitten-super-cute-pink-hearts-animated-gif-1.gif" width="90">
 </h2>
 
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Charuary.Charuary)](https://github.com/Charuary) [![GitHub followers](https://img.shields.io/github/followers/Charuary.svg?style=social&label=Follow)](https://github.com/Charuary?tab=followers)
@@ -16,10 +16,12 @@ I'm **Charu Chaudhary** !
 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
+<h2> About Charu: <img src= "https://i.gifer.com/origin/f9/f9abd21a7f2be6472c1852518c8e605b.gif" width="30"> </h2>
+
+I'm a Graduate Student living in Amritsar, PB. Outside Tech, I love to read novels, paint, write poem and travelling . 
 
 <h2>📫 How to reach me:</h2>
 
 <a href="mailto: charuchaudhary0202@gmail.com">![charuchaudhary0202@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> 
 
-<h2> About Charu: <img src= "https://i.gifer.com/origin/f9/f9abd21a7f2be6472c1852518c8e605b.gif" width="30"> </h2>
-I'm a Graduate Student living in Amritsar, PB. Outside Tech, I love to read novels, paint, write poem and travelling . 
+
