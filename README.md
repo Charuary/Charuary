@@ -20,4 +20,4 @@ I'm **Charu Chaudhary** !
 
 <h2> About Charu⚡:</h2>
 
-I'm a Graduate Student living in Amritsar, PB. Outside Tech, I love to read novels, paint, write poem and travelling . If you are around Chicago, drop an email and let's catch-up over Coffee!
+I'm a Graduate Student living in Amritsar, PB. Outside Tech, I love to read novels, paint, write poem and travelling . 
