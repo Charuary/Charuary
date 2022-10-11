@@ -1,6 +1,6 @@
 <h2>Hey! 👋</h2>
 
-[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Charucodess.Charucodess)](https://github.com/Charucodess) [![GitHub followers](https://img.shields.io/github/followers/Charucodess.svg?style=social&label=Follow)](https://github.com/Charucodess?tab=followers)
+[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Charuary.Charuary)](https://github.com/Charuary) [![GitHub followers](https://img.shields.io/github/followers/Charuary.svg?style=social&label=Follow)](https://github.com/Charuary?tab=followers)
 
 I'm **Charu Chaudhary** !
 - <i>Currently:</i>  B.tech ECM student at Guru Nanak Dev University at Amritsar.
